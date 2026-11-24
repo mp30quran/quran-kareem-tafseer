@@ -35,7 +35,6 @@
 
 <img width="720" height="1280" alt="Screenshot_1795560429" src="https://github.com/user-attachments/assets/d0fcb927-4fa8-4454-a83d-3974b5305ae0" />
 
-<img width="1408" height="768" alt="Firefly_Gemini Flash_quran icon 7556" src="https://github.com/user-attachments/assets/4ce58813-d4d7-4322-a82a-ff2e53ee9900" />
 
 <img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/dc0d95f2-ebe3-4298-bb9f-a1a4e7c6a129" />
 
