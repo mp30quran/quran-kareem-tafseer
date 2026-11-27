@@ -67,9 +67,13 @@
 
 <img width="720" height="1280" alt="Screenshot_1795790003" src="https://github.com/user-attachments/assets/c2932067-6128-4113-982b-a9aae316e207" />
 
-<img width="720" height="1280" alt="Screenshot_1795790035" src="https://github.com/user-attachments/assets/9d7df285-0f41-40f9-8ee0-534a7e2acd8d" />
+
+<img width="720" height="1280" alt="Screenshot_1795790169" src="https://github.com/user-attachments/assets/2eafce64-ce4d-42e3-99ca-836e7a6bfbac" />
+
+
 
 <img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/9cc8b340-1720-404d-8e47-274ad2ba3bbf" />
+
 
 
 
