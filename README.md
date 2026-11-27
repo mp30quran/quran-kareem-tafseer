@@ -65,8 +65,12 @@
 
 <img width="720" height="1280" alt="Screenshot_1795560429" src="https://github.com/user-attachments/assets/d0fcb927-4fa8-4454-a83d-3974b5305ae0" />
 
+<img width="720" height="1280" alt="Screenshot_1795790003" src="https://github.com/user-attachments/assets/c2932067-6128-4113-982b-a9aae316e207" />
 
-<img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/dc0d95f2-ebe3-4298-bb9f-a1a4e7c6a129" />
+<img width="720" height="1280" alt="Screenshot_1795790035" src="https://github.com/user-attachments/assets/9d7df285-0f41-40f9-8ee0-534a7e2acd8d" />
+
+<img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/9cc8b340-1720-404d-8e47-274ad2ba3bbf" />
+
 
 
 
